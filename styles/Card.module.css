@@ -1,0 +1,20 @@
+.card {
+  margin: 1rem;
+  border-radius: 15px;
+  width: 250px;
+  height: 310px;
+  background-color: #f74f44;
+}
+
+.card h2 {
+  margin: 0 0 1rem 0;
+  color: #fff17b;
+  text-align: center;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.4;
+  color: white;
+}
